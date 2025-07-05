@@ -30,4 +30,4 @@ Para rodar o torneio completo, você precisa dos seguintes projetos:
 
 Interface e Gerenciador criados por guisso
 
-Jogador Clonador implementado por Iago Rocha Dev
+Jogador Clonador implementado por IagoRochaDev
